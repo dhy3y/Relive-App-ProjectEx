@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94709741701",
+    "firebase_url": "https://relive-app-5290a.firebaseio.com",
+    "project_id": "relive-app-5290a",
+    "storage_bucket": "relive-app-5290a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94709741701:android:82b839973b1cf2925951ec",
+        "android_client_info": {
+          "package_name": "com.dhyey.projectexhibition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94709741701-plf13a2o5iktisif6f43p4o99uk228jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhyey.projectexhibition",
+            "certificate_hash": "292214c8a4737dcee6ebe06915539ad7573a8a98"
+          }
+        },
+        {
+          "client_id": "94709741701-1v76s0efj6ig489ls2a1qjlhqkkdbj2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqkgyIIrgxgRCSIVnfy4uf8Af5d0svpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94709741701-1v76s0efj6ig489ls2a1qjlhqkkdbj2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
